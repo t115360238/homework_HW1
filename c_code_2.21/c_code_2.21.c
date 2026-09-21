@@ -4,7 +4,7 @@
 void method2();
 
 int main(){
-    /*
+
     printf("*********   ***     *       *    \n");
     printf("*       *  *   *   ***     * *   \n");
     printf("*       * *     * *****   *   *  \n");
@@ -13,8 +13,8 @@ int main(){
     printf("*       * *     *   *    *     * \n");
     printf("*       * *     *   *     *   *  \n");
     printf("*       *  *   *    *      * *   \n");
-    printf("*********   ***     *       *    \n");
-*/
+    printf("*********   ***     *       *    \n\n");
+
     method2();
     return 0;
 }
